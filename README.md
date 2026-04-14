@@ -40,5 +40,5 @@ Build a web app for live prediction
 # ▶️ How to Run
 
 1. Open the notebook in Google Colab:
-   [IMDB_ Movie_ Review.ipynb](https://colab.research.google.com/github/narditesh/Predicting_House_Prices/blob/main/house_prices_portfolio.ipynb)
+   [IMDB_ Movie_ Review.ipynb](https://github.com/narditesh/sentiment-analysis-project/blob/main/IMDB__Movie__Review.ipynb)
    
