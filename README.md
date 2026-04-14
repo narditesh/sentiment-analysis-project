@@ -8,9 +8,9 @@ This project builds a machine learning model to classify movie reviews as positi
 To automatically determine the sentiment of movie reviews using text data.
 ## 📊 Dataset
 Source: Labeled movie review dataset
-#Columns:
-#text: Movie review content
-#label: Sentiment (0 = Negative, 1 = Positive)
+##Columns:
+##text: Movie review content
+##label: Sentiment (0 = Negative, 1 = Positive)
 ## ⚙️ Steps Performed
 Text cleaning (lowercasing, removing punctuation, stopwords)
 Feature extraction using TF-IDF
